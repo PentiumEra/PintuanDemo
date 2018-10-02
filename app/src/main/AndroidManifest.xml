@@ -49,12 +49,7 @@
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="z3mFhUZ8oKtRYWXntpZ9TRIXk9lv9gQK" >
         </meta-data>
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name=".activities.MainActivity">
         </activity>
     </application>
 

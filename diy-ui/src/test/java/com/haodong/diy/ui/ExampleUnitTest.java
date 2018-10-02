@@ -1,4 +1,4 @@
-package com.hoadong.diy.serv;
+package com.haodong.diy.ui;
 
 import org.junit.Test;
 

@@ -202,5 +202,9 @@ public abstract class BaseDelegate extends SwipeBackFragment implements ISupport
     public void start(final ISupportFragment toFragment, @LaunchMode int launchMode) {
         DELEGATE.start(toFragment, launchMode);
     }
+    public boolean onBackPressed() {
+        return false;
+    }
+
 
 }

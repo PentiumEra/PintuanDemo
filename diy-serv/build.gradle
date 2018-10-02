@@ -31,7 +31,6 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     //butterknife
     api 'com.jakewharton:butterknife:8.5.1'
-    annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
     api 'com.joanzapata.iconify:android-iconify-ionicons:2.2.2'
     api 'com.joanzapata.iconify:android-iconify-fontawesome:2.2.2'
     api project(':diy-ui')

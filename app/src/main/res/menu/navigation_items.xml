@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_main"
+        android:title="@string/action_main"
+        android:icon="@drawable/ic_main_normal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_location"
+        android:title="@string/action_location"
+        android:icon="@drawable/ic_around_normal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_pintuan"
+        android:title="@string/action_pintuan"
+        android:icon="@drawable/ic_pintuan_normal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_mine"
+        android:title="@string/action_mine"
+        android:icon="@drawable/ic_mine_normal"
+        app:showAsAction="ifRoom" />
+</menu>

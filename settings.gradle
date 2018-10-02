@@ -1,1 +1,1 @@
-include ':app', ':diy-core', ':diy-core', ':diy-serv', ':diy-ui'
+include ':app', ':diy-core', ':diy-core', ':diy-serv', ':diy-ui', ':diy-serv', ':diy-ui', ':diy-serv'

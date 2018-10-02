@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PintuanDemo</string>
+    <string name="action_main">主页</string>
+    <string name="action_location">地址</string>
+    <string name="action_pintuan">拼团</string>
+    <string name="action_mine">我的</string>
 </resources>

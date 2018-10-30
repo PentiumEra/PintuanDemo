@@ -50,6 +50,11 @@
             android:value="z3mFhUZ8oKtRYWXntpZ9TRIXk9lv9gQK" >
         </meta-data>
         <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
     </application>
 

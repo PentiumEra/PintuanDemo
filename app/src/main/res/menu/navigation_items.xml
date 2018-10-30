@@ -9,7 +9,7 @@
     <item
         android:id="@+id/action_location"
         android:title="@string/action_location"
-        android:icon="@drawable/ic_around_normal"
+        android:icon="@drawable/ic_location_normal"
         app:showAsAction="ifRoom" />
     <item
         android:id="@+id/action_pintuan"
